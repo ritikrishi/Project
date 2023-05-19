@@ -14,7 +14,7 @@ Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-
 and found a CSV dataset.
 
 
-![](image_covid_data.png)
+![COVID19 DATA](https://github.com/ritikrishi/Project/blob/main/image_covid_data.png)
 
 Here we have data for about 1,000 cases of COVID-19. We can see the age
 of all the infected person, the gender, whether they recovered or died,
